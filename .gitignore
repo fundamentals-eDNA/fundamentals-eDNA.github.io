@@ -4,3 +4,5 @@
 .Ruserdata
 Icon
 .DS_Store
+.jekyll_cache/
+_site/
