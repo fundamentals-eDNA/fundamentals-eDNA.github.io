@@ -2,7 +2,6 @@
 .Rhistory
 .RData
 .Ruserdata
-Icon
 .DS_Store
-.jekyll_cache/
+.jekyll-cache/
 _site/
