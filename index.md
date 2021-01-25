@@ -1,6 +1,6 @@
 ---
 layout: page
-description: This page describes the whole project.
+description: Course website for Fundamentals of eDNA
 ---
 
 <img src="img/favicon.png" alt="drawing" width="150"/>
