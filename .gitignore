@@ -6,3 +6,4 @@
 .jekyll-cache/
 _site/
 Icon
+_posts/*.html
