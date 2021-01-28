@@ -3,7 +3,7 @@ layout: page
 title: Reflections
 ---
 
-## News
+## Reflections
 
 <!-- Posts -->
 <ul id="posts">
