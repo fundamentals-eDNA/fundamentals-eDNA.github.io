@@ -108,8 +108,21 @@ Once we've committed the changes we can at long last push to GitHub.  Hit the pu
 
 ![](img/github_how2/fig_push.png){:width="50%"}
 
+Go back to your web browser, refresh the repo page, and you should see the new files you just pushed! 
 
-While committing and pushing you might get warning messages about your username and email. You can follow the prompts to specify those for future use.
+While committing and pushing you might get warning messages about your username and email. If you see these warnings you need to let Git and GitHub know who you are.  You can do this through the Terminal. To open a terminal tab through RStudio go to Tools > Terminal > New Terminal. This will open a new terminal tab next to the R Console tab.  The terminal is different than the R Console. You can think of the terminal as accessing the guts of your computer. R code will not work here.  However, we *can* interact with Git here and that's what we need to do to identify ourselves. So in the terminal type
 
-Go back to your web browser, refresh the repo page, and you should see the new files you just pushed!  You can safely close RStudio, your connection won't break unless you break your computer.
+```
+git config --global user.name "github_user_name"
+```
+
+replace `github_user_name` with your actual username; hit enter. Then type 
+
+```
+git config --global user.email "my_email"
+```
+
+again replace `my_email` with the actual email address you used to register your GitHub account; hit enter.
+
+Now your identity is known and you should be all set!
 
