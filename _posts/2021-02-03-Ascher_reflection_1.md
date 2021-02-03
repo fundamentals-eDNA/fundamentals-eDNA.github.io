@@ -1,0 +1,6 @@
+---
+title: Reflection on Tallbear and Cristescu
+author: Alex Ascher
+description: Week 1 blog post
+---
+A lot of the concepts in the Cristescu paper felt familiar to me, owing mostly to my participation in the eDNA Friday seminar meetings last semester. Although, like everyone else in class I was really surprised to learn about how long-lived eDNA can be in sediments. I work mostly with pelagic larvae, so my concern is generally how transient eDNA in the water column is, rather than how entrenched it may be. The paper that really introduced me to lots of new concepts was the Tallbear paper. Something that stood out to me as somewhat scary is I think a portion of the geneticists in the paper likely had good intentions, and their logic is easy to follow for me. The idea of using genetic tools to determine tribal enrollment, or in order to push the idea that we all have a singular origin, can seem enticing. The problem being that so much cultural context is entirely lost with either of these applications of genetic analysis. It made me think of the old saying, **"When you have a hammer, everything looks like a nail."** Geneticists, and all scientists in general need to step back and consider the context of their work and who it will affect downstream. Just because we have this powerful eDNA technology doesn't mean it can be used to solve every problem.
