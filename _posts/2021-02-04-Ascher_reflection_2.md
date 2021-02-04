@@ -1,0 +1,6 @@
+---
+title: Reflection on open source research
+author: Alex Ascher
+description: Week 2 blog post
+---
+I think most of us can agree that the future for science is open source. One of the greatest tools a scientist in any field can have is the ability to communicate their research in a compelling and accessible manner. But good communication doesn’t count for much if your work is hidden behind a paywall. Public perception of science is at an all-time low, and researchers are frequently seen as sitting in ivory towers looking down at non-scientists. The only way we effectively combat these perceptions is by including the public in our research, and making science accessible to all. Much of our research is funded through federal grants and other public institutions, and the taxpayers contributing their money to these grants deserve to see the outcomes of research projects they helped to fund. I think ultimately what is needed is a complete paradigm shift in the way we distribute research. This includes publishing our work in a way that is understandable to lay people, as well as the more detailed scientific papers. Of course that is quite a tall order, and change of that magnitude takes time. A good place to start is with greater acceptance of open access publishing, and data sharing.
