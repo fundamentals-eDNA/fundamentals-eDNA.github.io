@@ -1,5 +1,5 @@
 ---
-title: Reflection on open source research
+title: Reflection on open access research
 author: Alex Ascher
 description: Week 2 blog post
 ---
