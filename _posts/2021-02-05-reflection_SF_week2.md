@@ -1,11 +1,11 @@
 ---
-title: Reflection from eDNA overview
-description: Andy's reflection from overview discussion of eDNA
-author: Andy Rominger
+title: Open Access Reflection
+description: Promoting open access and decreasing plagiarism.
+author: Shane Farrell
 ---
 
-I really like the idea that eDNA has its own ecology (depicted in Figure 2 from [Cristescu and Hebert 2018](https://www.annualreviews.org/doi/abs/10.1146/annurev-ecolsys-110617-062306)) that we have to consider when analyzing it. It's not like there's an impartial record of biodiversity hiding out there in eDNA---the record is imperfect and biased and our analyses must account for that
+I think it is widely agreed that journals should be open access. There are many reasons for both benefits to the author(s) and reader(s). Quick aside… I am always shocked by the cost to publish in open access journals. Just the other day, I read a tweet by @mightdropout saying, “you think Chrissy Teigen accidentally paying $13,000 for a bottle of wine is bad? I once paid almost exactly that amount to publish an open-access article in Nature.” 
 
-![](img/cristescu_fig2.png){:width="50%"}
+Open access articles allow an article to be read by a wider audience. However, that increased audience may not know how to properly cite or credit the author(s) for their work. In Dr. Sue Ishaq’s Sequencing Analysis class, we recently read an [article](https://www.ajol.info/index.php/amhsr/article/view/112282) about plagiarism. According to Mohan et al., 2014, “Availability of internet facilities and free online journals are the main sources of today’s plagiarism among the students, faculty, and researchers of any profession” (p. 193). I think this was an interesting statement. How can we decrease plagiarism while promoting open access? I’m not saying open access is causing plagiarism. It just seems that because of the increased availability, not all of the readers may know how to credit an author for his or her ideas appropriately. 
 
-I also appreciated that we could think about different perspectives on genetics research. It's important to remember that while I might be excited by the prospects of genetics technology to unlock biodiversity data, other people have experienced genetics research as exploitative and colonial. Reading [TallBear (2013)](https://www.jstor.org/stable/43284191?seq=1) was a great introduction to some of those perspectives.  I also wanted to share a nice [essay](http://carte-blanche.org/hiyoge-owisisi-tanga-ita-cricket-egg-stories/) I was reminded of during our discussion. In it Dr. Katherine Crocker narrates some of her experience of being Indigenous in science.
+
