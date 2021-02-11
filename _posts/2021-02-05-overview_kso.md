@@ -1,5 +1,5 @@
 ---
-title: Week 2 Reflection: Tools for Research Communication
+title: Week 2 Reflection - Tools for Research Communication
 description: Reflection on the second week of EES 590, discussing tools for effective communication by researchers, with focus on open access, and connecting to Github.
 author: Kyle Oliveira
 ---
