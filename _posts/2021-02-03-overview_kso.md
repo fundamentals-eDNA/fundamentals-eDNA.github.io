@@ -1,5 +1,5 @@
 ---
-title: Week 1 Reflection: eDNA Overview
+title: Week 1 Reflection - eDNA Overview
 description: Reflection on the first week of EES 590, discussing overview of the class and eDNA/genetics definitions and acceptance in science/the community.
 author: Kyle Oliveira
 ---
