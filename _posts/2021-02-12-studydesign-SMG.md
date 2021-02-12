@@ -1,6 +1,6 @@
 ---
 title: Study design: the art of compromise
-description: Sydney's reflection on study design module
+description: Sydney's reflection on study design
 author: Sydney Greenlee
 ---
 
