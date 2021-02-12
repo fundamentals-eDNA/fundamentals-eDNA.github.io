@@ -1,6 +1,6 @@
 ---
 Date: 2.12.21
-title: Reflection from Tools for Experimental Design
+title: Jekielek_Week 3 Reflection from Tools for Experimental Design
 description: Think deeply about deep sampling
 author: Phoebe Jekielek
 ---
