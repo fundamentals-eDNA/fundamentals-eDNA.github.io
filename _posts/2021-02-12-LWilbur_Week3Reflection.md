@@ -1,0 +1,9 @@
+---
+title: Reflection on Study Design & Data Management
+description: Week 3 discussion reflection
+author: Lara Wilbur
+---
+
+I think that study design and data management are likely the most difficult aspects of research.  One especially difficult aspect of study design may be somewhat unique to wildlife work (or wildlife work within government agencies). Researchers may suddenly find themselves with funding and equipment to study a particular species with very little time to decide how to go about doing it. I have definitely worked on projects where we received funding for the study before planning it out in detail. One such project resulted in inefficient and inconsistent data collection methods and a data management nightmare. Ultimately it was resolved, but it seems to me that funding for such projects should include the cost of project and data management planning. I think that part of the problem is that there can be a lot of pressure in wildlife management to answer questions and solve problems quickly.   
+
+Study design can also be difficult because methods may need to be altered once data collection has already begun.  For example: when working with a rare species (or a species that has not been studied much), the initial proposed capture techniques may prove ineffective. I suspect that a combination of testing new methods and equipment (canoe) availability may have been why de Souza et al. (2016) changed their sampling methods when searching for the flattened musk turtle and the Black Warrior waterdog. In an ideal world, researchers would have the opportunity to perform pilot studies before deciding on finalized study methods.
