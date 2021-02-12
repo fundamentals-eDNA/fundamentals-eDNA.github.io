@@ -1,7 +1,0 @@
----
-title: Reflection from Tools for Research Communication
-description: The more the merrier
-author: Phoebe Jekielek
----
-
-This paper was a great overview of the many opportunities, challenges, and considerations of making your science open access. I don't have a lot of personal experience with Open Access article publications, but I have published data via the Environmental Data Initiative, which is an open access data publishing effort. I very much appreciated the really grand overview in the paper of the barriers to public access to science and how Open Access can break down those barriers. I mentioned this in our breakout, but my general feeling about the paper was that it was being written by essentially the next generation of scientists who are focused on access, equity, and awareness and calling out the "older generation" of scientists that wish to continue to hide that access and perpetuate systemic power dynamics that are often found in academia. I've never officially been a reviewer of an article, but I really appreciated the thoughts in our discussion around how reviewing an Open Access article increases the accountability of both the scientist submitting the paper and the reviewer themselves, since their name is published right along with their review. Although I still have a lot to learn about Open Access, I do believe that science should strive for this goal and I believe that it would bolster the success of scientists throughout their career and increase public understanding of science overall.  
