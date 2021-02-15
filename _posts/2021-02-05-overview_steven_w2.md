@@ -1,7 +1,7 @@
 ---
 title: week 2blog reflection
 author: steven allers
-date: "2/12/2021"
+date: "2/05/2021"
 description: reflection upon reading the paper on open access
 ---
 
