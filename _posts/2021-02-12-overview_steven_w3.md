@@ -1,7 +1,7 @@
 ---
 title: week 3 blog reflection
 author: steven allers
-date: "2/12/2021"
+date: "12/2/2021"
 description: reflection upon reading the paper on seasonal activtiy and eDNA detection
 
 ---
