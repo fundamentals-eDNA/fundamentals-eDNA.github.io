@@ -1,7 +1,8 @@
 ---
-title: blog reflection
+title: week 2blog reflection
 author: steven allers
-description: reflection upon reading the paper on open access:
+date: "2/12/2021"
+description: reflection upon reading the paper on open access
 ---
 
 Reflection on 'How open science helps

@@ -1,7 +1,8 @@
 ---
-title: blog reflection
-author: steven
-description: reflection upon reading the two papers by Tallbear, and the review of eDNA:
+title: week 1 blog reflection
+author: steven allers
+date: "2/12/2021"
+description: reflection upon reading the two papers by Tallbear, and the review of eDNA
 ---
 
 Steven Allers - Reflection One

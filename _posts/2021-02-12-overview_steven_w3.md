@@ -1,7 +1,9 @@
 ---
-title: blog reflection
+title: week 3 blog reflection
 author: steven allers
-description: reflection upon reading the paper on seasonal activtiy and eDNA detection:
+date: "2/12/2021"
+description: reflection upon reading the paper on seasonal activtiy and eDNA detection
+
 ---
 
 Reflection on 'Environmental DNA (eDNA) Detection Prbobability is Influenced by Seasonal Activity of Organisms'
