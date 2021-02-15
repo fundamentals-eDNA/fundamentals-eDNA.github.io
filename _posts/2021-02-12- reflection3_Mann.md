@@ -1,0 +1,7 @@
+---
+Title: Reflection 3
+Author: Sharon Mann
+---
+
+The theme for this week’s lecture and paper was Survey Design. I was surprised to learn how many replicates are needed in field and laboratory samples. I am used to working with DNA in large quantities- such as plant clippings or colonies of bacteria. It makes sense that field and laboratory samples should increase when using environmental DNA since eDNA is only found in trace amounts. I’m glad that we covered this topic before finalizing our team project budget!
+The De Souza et al., 2016 paper provided a good example of field replication and laboratory replication for qPCR. The most important thing that was emphasized in this paper was to know the ecology of the organism you are investigating. I have read papers that suggest late June and July are the best times to purse seine for juvenile alewife in freshwater. Based on the life history of anadromous alewife, there should be no alewife eDNA in Maine lakes with anadromous fish pathways at this time. My group is using what we know about alewife ecology to test the efficacy of sampling eDNA using a Niskin bottle, which disturbs benthic sediments when collecting deep water samples. Our proposed study is entirely based on the premise that alewife should not be in the lake at this time and white perch should be in the lake. After this week’s lecture, my group decided to increase sample locations and replicates to increase the likelihood of capturing eDNA. 
