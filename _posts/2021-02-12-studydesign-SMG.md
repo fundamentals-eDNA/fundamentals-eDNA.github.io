@@ -1,6 +1,6 @@
 ---
 title: Study design: the art of compromise
-description: Sydney's reflection on study design
+description: Sydney's reflection on study design (commits on 01/12 failed)
 author: Sydney Greenlee
 ---
 
