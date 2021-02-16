@@ -1,0 +1,9 @@
+---
+title: Study Design Week 3 Reflection 
+description: Reflection on week 3 study design deSouza et al. (2016)
+author: Sam Silverbrand
+---
+
+I really liked this week's discussion from deSouza et al. (2016) around study design, specifically the aspects of multiple competeing hypotheses and the use of occupancy modeling when planning your research. I've read a lot about the use of occupancy modeling in eDNA through my lab's work, as many of the other graduate students are using it for their dissertations. I'm excited to see how it will be useful in completing metabarcoding data analyses and how it will be expanded upon in the field. Members of my group weren't sure what it was, so I think a discussion down the line about data analysis methods will be really intriguing and useful to the whole class. Additionally, our discussion around having multiple hypotheses when doing research led to a lot of brainstorming on the behalf of my group for the project in this class. The use of multiple hypotheses in creating a more objective research plan and outcome is something I hadn't really thought about. 
+
+Lastly, the discussion our class had about life stage affecting detection rate for eDNA in different species was really eye opening for me. I was aware that some reptiles like turtles have a smaller detection rate because they shed less DNA from hard surfaces, but I didn't even think that detecting crab species, like the invasive European green crab, would be really difficult due to their lack of shedding DNA. The paper by deSouza et al. (2016) really created good discussion about how you should take things like life stage and morphology into account when looking at a study organism and how you want to plan your sampling. 
