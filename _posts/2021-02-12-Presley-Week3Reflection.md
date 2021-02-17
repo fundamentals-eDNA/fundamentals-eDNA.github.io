@@ -1,0 +1,15 @@
+---
+title: Module 3 - Study Design and Intro to Data Management
+description: Reflection of week three's class
+author: Rachel Presley
+---
+
+This week we discussed module 3 - study design and introduction to data management. In the class, we reviewed multiple competing hypotheses (MCH), definitions of “sample” and “replicate,” and occupancy models. The study by De Souza et al. (2016) examines the effect of seasonality on detection in eDNA samples for the Black Warrior Waterdog and the Flattened Musk Turtle in Alabama, USA. They found that it is important to incorporate life history knowledge of target species into study designs that use eDNA sampling methods. Less sampling is needed when target species are more active (i.e. only 4 water samples are needed for 95% detection rate for the Flattened Musk Turtle during the warm season when this turtle species is most active). Additionally, this study found both species in newly recorded locations using eDNA sampling methods. 
+
+Similar to what these authors found, an organism’s DNA shedding is affected by their reproduction status, age (i.e. molting), general activity, and other factors. Additionally, some other studies have found that the ability to detect organisms via eDNA methods varies widely between species. In the discussion, we reviewed our individual answers to the following questions: 
+
+•	What important lesson(s) does this paper share about study design? It is incredibly important to incorporate life history and general knowledge of the target species(s). It can determine whether or not you detect organisms. It is important to know how often you need to sample and how many samples to collect in order to be confident of true positive detection. Because this is a non-random study design, there are some important implications to consider.
+
+•	What is something that you liked about the survey design and something that could be improved? The general idea/thought behind this study is interesting. The study seemed to be quite unbalanced between sampling years. Needed to be more structured and increase sampling frequency and areas (locales). The authors did not include some important environmental parameters (temperature, riverine flow rates, etc.).
+
+•	What other biological factors (besides seasonality) do you need to think about when thinking about survey design? Target species related factors: reproductive status, age (i.e. molting), range (territory), migration, feeding behavior (i.e. some organisms that eat hard/rough surfaced food excrete more DNA), etc. Environmental parameters: water pH, riverine flow rates/stages, temperature, tannin concentration (i.e. fallen leaves in fall increase water tannin concentration, which make it harder to detect eDNA), sediment resuspension (sediments preserve DNA for much longer periods of time), etc. Anthropogenic impacts: pollution, human activities in the area, etc. Historical information: known species range, density, etc. and land use, habitat degradation, etc.

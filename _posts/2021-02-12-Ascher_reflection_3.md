@@ -1,0 +1,6 @@
+---
+title: Reflection on seasonality of eDNA
+author: Alex Ascher
+description: Week 3 blog post
+---
+I really enjoyed the authors focus on natural science in this paper. It feels like sometimes these basic facts, such as range, behavior, activity level, and breeding season are frequently overlooked. That can go doubly so for eDNA analyses as you can make it through an entire research project without even laying eyes on your study organism. Additionally, there use of GIS was interesting. I think the class, as noted by one of my classmates, fixated a little on the issues surrounding the authors methodologies, including some skepticism over the accuracy of the GIS data they used. While these are valid points, they shouldn't overshadow the main point of this paper. Seasonality was found to have a major impact on the detectability of rare species through eDNA analysis. This is likely due to the fact that the species in this paper have different breeding seasons, and so were more detectable during these times when they were more active, and their gametes were present in the environment. 

@@ -1,0 +1,6 @@
+---
+title: Reflection 
+description: Week 3 reflection, Study Design
+author: tktdvm
+---
+This week our class discussed the paper by DeSouza et al. (2016) and the authors' approach to identifying the seasonality of eDNA detections of two imperiled species in a river basin in Alabama. The authors concluded that there is a difference in seasonality in detecting these species from eDNA samples. While I appreciated the potential limitations identified and discussed by the authors, I also wanted to know more details regarding their methods. Seasonality was broken down into cool and warm, with half the year (October to April) being the cool season and May to September being the warm season. Did they collect data on air and water temperature, water quality or turbulence? What about weather patterns, etc.? I also was hoping for more consistency with sampling. It was an interesting paper, and as many pointed out. . .one of the earlier eDNA publications. So perhaps many of these details were not of significant focus. Or, as Dr. Grey pointed out, it's quite possible the data is there and the choice to leave it out was intentional. Communicating that decision (or the data itself) would have left me with more appreciation for the study overall, but it also serves as a great example of just how impressive the eDNA standards have become.
