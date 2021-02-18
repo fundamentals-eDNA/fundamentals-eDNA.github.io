@@ -1,5 +1,5 @@
 ---
-title:Survey Design
+title: Survey Design
 description: Sarahs reflection survey design
 author: Sarah Hosler
 ---
