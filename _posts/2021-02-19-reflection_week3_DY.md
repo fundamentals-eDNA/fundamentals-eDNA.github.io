@@ -1,6 +1,6 @@
 ---
-title: Reflection from eDNA Open Access module
-description: Dara's reflection from discussion of open access research and data
+title: Reflection from week 3
+description: Dara's reflection from Diaz 2020 discussion
 author: dyiu
 ---
 
