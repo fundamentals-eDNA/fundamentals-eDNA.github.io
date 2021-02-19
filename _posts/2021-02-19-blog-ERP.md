@@ -1,0 +1,9 @@
+---
+title: Reflection Blog 1/31
+description: first blog reflection
+author: Emily Pierce
+---
+
+Reflection week 1 blog post
+
+The readings and course material this week made me excited for the semester ahead.  I recently completed my master’s thesis on eDNA and the background literature is not foreign to me, but it will be good to have this platform to discuss other methods, see what other people are doing, address concerns about communication and clarity of results, and especially to get the bioinformatics information.  This week I especially enjoyed the discussion of Dr. TallBear’s paper; respect for indigenous knowledge and acknowledgement of the impact my research has on their culture and land is unfortunately a new topic of discussion for me.  I’m thankful that my time in Maine has made me more aware and respectful of these nations and want my research to continue forward with the utmost respect.  Something that came up in my small group discussion regarding this paper was how genetic information can only tell us so much.  If someone identifies as Native and was raised in that culture, DNA may only tell us part of that person’s story.  Furthermore, it may bring up unnecessary trauma of colonialism (both past and present).  We as scientists need to be mindful that, while eDNA and molecular tools can be helpful, the ways they are used and communicated must take into account the people it will affect. 
