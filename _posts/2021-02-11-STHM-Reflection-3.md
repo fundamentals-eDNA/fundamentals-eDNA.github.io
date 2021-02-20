@@ -1,5 +1,5 @@
 ---
-title: EES 590 Reflections: Study Design
+title: "EES 590 Reflections: Study Design""
 description: Week 3 Reflections
 author: Samuel Tan
 ---
