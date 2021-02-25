@@ -1,0 +1,6 @@
+---
+Title: week 4 reflection
+Author: Sharon Mann
+---
+
+This week we discussed using eDNA extracted from suspended particulate matter (SPM) to monitor fish communities. I chose this paper because it is relevant to my own work on the EPSCoR project. My first task on the grant is to recreate fish communities from current sediments, before they settle on the benthic floor. Diaz et al. (2020) used stainless steel boxes to collect suspended particulate matter. While the researchers were able to extract fish DNA from SPM in rivers, their field methods are not best suited for my research in lakes. In my literature search on sediment traps, I’ve found that using open tray collection vessels is highly discouraged as the containers do not prevent sediment resuspension. Sediment resuspension is definitely a big concern for those of us working on communities in time such as before and after alewife restoration. Diaz et al. (2020) tested four different extraction kits and found that using a modified DNA Easy- soil kit provided the purest DNA. There are two cohorts that I know of in the eDNA group that have been testing different extraction methods to set a standard for Index Sampling. I hope this paper was informative so we can finally start extracting! 
