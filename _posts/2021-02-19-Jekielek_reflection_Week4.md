@@ -1,0 +1,8 @@
+---
+Date: 2.19.21
+title: Jekielek_Week 4 Reflection 
+description: The matter of flow...or the flow of matter
+author: Phoebe Jekielek
+---
+
+This week I thought a lot about this work in relation to the questions I'm asking. Truthfully, sediment traps are something I've been considering to compare fertliziation success in wild and cultured populations of scallops. The eggs are neutrally buoyant, fertilized or unfertilized, so sediment traps would be a great way to sample them. The tube traps, not the metal box traps. The past few papers have been good papers to bring up the discussion around how we visualize eDNA data. It seems that our class has not been very satisfied with how the authors choose to display their data, even though they may be proof-of-concept papers. It's actually been helpful for me to think now about how to display data and use that to narrow my questions and my methods; most of the time it's the other way around. I feel like we just keep coming back to "what is the question you're asking and do the methods assess that question" and needing to continually redirect ourselves to thinking about how and if the authors addressed the specific question(s) they're asking. We keep coming back to it in our group project as well when talking about experimental design. It's very easy to move quickly away from the question and get caught up in critiquing the process, but the more I come back to the question and assessing my methods to address that question the more smoothly the process of my own work has become. I mean it's not moving quickly at all, but I'm becoming more confident in my own process slowly but surely. 
