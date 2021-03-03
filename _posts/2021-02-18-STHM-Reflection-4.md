@@ -1,5 +1,5 @@
 ---
-title: "EES 590 Reflections: Suspended particulate matter & eDNA""
+title: "EES 590 Reflections: Suspended particulate matter & eDNA"
 description: Week 4 Reflections
 author: Samuel Tan
 ---
