@@ -1,5 +1,5 @@
 ---
-title: "EES 590 Reflections: Research Communication""
+title: "EES 590 Reflections: Research Communication"
 description: Week 2 Reflections
 author: Samuel Tan
 ---

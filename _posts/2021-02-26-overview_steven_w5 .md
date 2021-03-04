@@ -1,0 +1,9 @@
+---
+title: week 4 blog reflection
+author: steven allers
+date: "19/2/2021"
+description: reflection upon reading the paper on different combinations of protocols and genetic monitoring of marine mammals
+
+---
+
+These two articles covered different topics, with the first article focused on different combinations of different protocols, and the second article on dectection of long finned-pilot whales. The first article described how different combinations of different extraction/sampling protocols can result in large differencecs in in DNA yield amounts as well as detected species. The main points being expressed was that researchers should be aware of the many different combinations available, and try to be conscious about which one is the best combination for their purposes. While this is true, the article also didn't seem to provide too many different metrics to really compare the combination. DNA yield, and read counts are important, however depending on the context, 'more' DNA yield, or more read counts may not necessarily result in higher quality or accuracy results. Additionally species presence, which I don't believe they explained how the defined presence, for instance, were singletons considered, is only one form of alpha diversity, and it is somewhat interesting they didn't try to present the analysis of the results in other ways, like beta diversity as Dr. Erin Grey stated. They also didn't compare different data analysis methods. In regards to the second paper, as stated by others it was an interesting perspective, in large part to us, as a look at how far eDNA methods have advanced. It dealt with the attempt to detect a finned-pilot whale using DNA precipitation of salt-water. 
