@@ -9,6 +9,6 @@ Primer design and PCR optimization are critical for the success of many eDNA stu
 
 ![](../img/Cov_Table.png)
 
-(img/CoV_Curves.png){:width="50%"}
+![](../img/CoV_Curves.png)
 
 
