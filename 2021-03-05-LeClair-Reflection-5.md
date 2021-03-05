@@ -1,7 +1,0 @@
----
-title: "2021-03-05-LeClair-Reflection-5"
-author: "Greg LeClair"
----
-I know last week I said extractions were my weak point, however, primer/assay design... if it's not my actual weakest subject in eDNA, it's my second weakest! I've had very little experience until this point designing primers. My master's thesis is currently using primers designed by a group out of Canada, so I did not have to design my own primers, but I did validate them. What I didn't realize was just HOW EASY it is to design/find primers! Using tools like NCBI BLAST, we're not only able to find primers that we could use but also determine what else they may amplify. Other important info is provided as well, such as GC content (more GC=better binding), self-complementarity, and the annealing temperature.
-
-Since my group is taking a metabarcoding approach to snowtrack eDNA, I had a bit of a carnival of seeing what our metabarcoding primer set (MiFish) would amplify, and as it turns out, it amplifies a lot of our target terrestrial mammals despite it being for fish! It misses a few, mostly a few songbirds, but regardless I'm surprised and comfortable with what it can do. I look forward to seeing what they can produce.
