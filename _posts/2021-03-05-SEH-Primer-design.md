@@ -1,0 +1,10 @@
+---
+title: Primer Design and PCR
+description: Sarahs primer design blog
+author: Sarah Hosler
+---
+
+Before this week’s lecture I was familiar with the basics of PCR and the various types such as qPCR and reverse transcription PCR, but the anything related to primers was still confusing to me. After Monday’s lecture and Wednesday’s discussion though, everything makes much more sense. The fact that anyone is able to design a new primer and with such ease (besides the testing part) is honestly something that I find insane. The idea of primers has always been somewhat far fetched and it was difficult for me to visualize and understand how they worked. It still took me hours after class to figure out why forward and reverse primers were not supposed to be complimentary, I understand now why this is bad, but I thought that the sequence of the primer is the only part that is amplified, and if you want a specific part of the DNA to be amplified than why would the reverse and forward primer not be complimentary? I now understand the error of my ways, but it still took me a few hours after class to wrap my head around it. The online demo of buying/creating a primer was very helpful, I feel that in a lot of classes we talk about things arbitrarily, but then when I try and do whatever it is in the lab that it is harder to transfer from a PowerPoint to real life.
+I also understand methods/techniques much better once I actually get to do them in the lab, so I am excited to have done DNA extraction from scallop veligers this week and perform qPCR on it in a few weeks, and I think that everything will become even more clear after this. I have done qPCR before while mentoring high school students, but I was not as knowledgeable, nor did I really care to learn about the details because I was young and naïve.
+Two things that I really enjoy about this class is learning some of the more in depth science behind many topics we have discussed, and I do not feel bad about myself for not knowing everything that we talk about because everyone in the class has such varying levels of knowledge.
+

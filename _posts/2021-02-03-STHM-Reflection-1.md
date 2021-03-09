@@ -1,5 +1,5 @@
 ---
-title: "EES 590 Reflections: Overview of eDNA""
+title: "EES 590 Reflections: Overview of eDNA"
 description: Week 1 Reflections
 author: Samuel Tan
 ---

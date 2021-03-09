@@ -1,0 +1,7 @@
+---
+title: Reflections on Next Gen Seq and Universal Primer Design - Week 7
+description: A short collection of thoughts on the reading for the 7th week of classes
+author: Rene Francolini
+---
+
+"Non-specific Amplification Compromises Environmental DNA Metabarcoding with COI" (Collins et al., 2019) provides a nice comparison of universal primers when looking at the biodiversity of fish in the water. I appreciate that they not only analyzed the efficiency of each primer set, but also took into account the reference databases that exist for them. While I have read many other papers that justify why they use 12S regions for fish over COI (and I had gone into reading this paper expecting that 12S would come out on top in functionality but not in database accessability), it was nice to see a fully completed study comparing these sequencing regions. The one thing that surprised me in this paper was how few bacteria samples the MiFish primers picked up, as I know that is a common problem faced when working with these primers. I do appreciate that this paper acknowledges the lack of sequences in the 12S database, as that is a limiting factor not only with 12S but with 18S (and others such as rbcl and ITS) regions as well. I think that once the databases have been improved upon in population of sequences and quality assurence of sequences, it will be interesting to go back and resequence some early biodiversity eDNA extractions to see how the results compare. 
