@@ -1,0 +1,5 @@
+title: Metabarcoding
+description: Week 7 reflection
+author: tktdvm
+
+Our focus this week was on next generation sequencing and metabarcoding. This is a technique I’m considering for the pilot portion of my project, so it is really exciting to be learning more about the process. Our lecture reviewed general primers and various targeted regions, and the paper evaluated CO1 (a favorite target for many metabarcoding analyses) performance for environmental DNA sampling. The authors also compared in silico primer pair performance to in vitro primer performance, which was a really interesting approach to evaluating CO1’s specificity among eDNA samples. Spoiler alert: it didn’t do that well! While it has an extensive reference library, CO1 does not have the specificity of some of the other targeted regions. Although most of the methods section was pretty much a foreign language to me, I get the concept the paper was presenting and thought it was a useful read. While it will be another steep learning curve, I’m looking forward to hearing how bioinformatics brings it all together next week!
