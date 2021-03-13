@@ -1,6 +1,6 @@
 ---
 title: Open Access Reflection
-description: Promoting open access and decreasing plagiarism.
+description: Promoting open access and decreasing plagiarism
 author: Shane Farrell
 ---
 
