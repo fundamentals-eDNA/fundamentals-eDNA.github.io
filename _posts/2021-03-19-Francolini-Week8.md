@@ -1,0 +1,7 @@
+---
+title: Reflections on Bioinformatics - Week 8
+description: A short collection of thoughts on the reading for the 8th week of classes
+author: Rene Francolini
+---
+
+"Exact Sequence Variants Should Replace Operational Taxonomic Units in Marker-Gene Data Analysis" (Callahan et al., 2017) is a paper that I was familiar with prior to this course, as I have presented it in a lab meeting in 2018. I had chosen it as a presentation paper because I had recently taken Marine Biological Laboratory's Strategies and Techniques for Analyzing Microbial Population Structures (STAMPS) course, and Susan Holmes was one of the instructors. In the course, we had gone into deep detail about ASVs versus OTUs, and while there were some instructors that preferred each of them, the course leaned towards using ASVs. Susan was the one of the professors who taught about ASVs, and while this paper laid out the argument for them over OTUs very well, it only truely clicked for me when watching her presentation. Part of the reason why her presentation was so helpful to me are the visuals that she used to explain the concepts of ASVs and OTUs. I wish those figures (or similar figures that aided in the explanation) were involved in this paper, as the one figure that is present aids in understanding the comparability of ASVs and OTUS, but not in the comparison of how ASVs vs. OTUs are determined. Also, why is it titled "**Exact Sequence Variants**" instead of "**Amplicon Sequence Variants**"?!?! Especially when they go on to use "ASV" throughout the paper?!?!
