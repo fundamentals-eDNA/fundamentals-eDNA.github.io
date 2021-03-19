@@ -1,0 +1,6 @@
+---
+title: Reflection on ASVs vs. OTUs
+author: Alex Ascher
+description: Week 8 blog post
+---
+I have read this Callahan paper about the merits of ASVs over OTUs before, but it was a revelation that it was written by the same person who developed DADA2. That in mind my reading of this paper for class was a little different from when I'd previously read it. I do believe that ASVs trump OTUs, but I couldn't help but notice that perhaps the authors of this paper don't quite give OTUs a fair chance. THey mention open reference OTU picking only briefly at the very end, though it seems a good way to mitigate some of the issues of OTUs in general. They don't seem interested in diving into any downsides of ASVs too deeply, which would have been appreciated. For instance they mention that unlike OTUs, the smallest unit an ASV can be inferred from is a sample, as opposed to OTUs which can be inferred at the level of individual reads. However, as a relative newcomer to metabarcoding who still hasn't had to run the bioinformatics on my own samples yet, I don't really know how much of an issue this is. Is that basis enough to pick OTUs rather than ASVs in some cases? I would have liked to see the authors dive into these sorts of questions a bit more.

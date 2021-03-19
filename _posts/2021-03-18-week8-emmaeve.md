@@ -1,0 +1,9 @@
+---
+title: Bioinformatics and Data Management 
+description: Week 8 Reflection 
+author: Emmaeve Jourdain 
+---
+
+I enjoyed this week’s discussion on bioinformatics and data management, as these are two areas that I haven’t had much experience with. I enjoyed learning about my classmate’s methods for data management, and I agree that this should be taught at some point in undergraduate because this is definitely a very important part of research that I never gained exposure to in any of my classes. Our discussion made me want to be much more organized with my data and also ensure that it is more secure. I also thought we had an interesting discussion about paper versus digital storage of data. I really enjoy keeping my lab notebook and being able to easily access my notes, and I feel that I am much more likely to write small observations and notes to myself in an actual notebook. However, after our discussion I think I am going to start scanning pages of my notebook onto my computer for additional security. I also like the idea of a program that converts handwritten notes into typed print to allow you to search in your notes. 
+
+We also discussed the paper ‘Exact sequence variants should replace operational taxonomic units in marker-gene data analysis’ by Callahan et al (2017) that argues that ASVs are more effective than OTUs. This paper and the supplemental lecture from fellow classmates was helpful to me for clarifying the difference between OTUs and ASVs, as I often see these terms in papers but was never confident on the distinction between the two. I also thought that the tutorial was a great way to supplement the paper. Parts of it definitely went over my head, but it was helpful to gain an initial exposure to the workflow and I plan to go back to the recording to rewatch. 
