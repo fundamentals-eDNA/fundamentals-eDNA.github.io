@@ -1,14 +1,8 @@
 ---
-title: Metabarcoding 
-date: Mar 12 2021
+title: Web Security 
+date: Mar 19 2021
 author: Shane Farrell
 ---
 
-Primer design and PCR optimization are critical for the success of many eDNA studies. I’ve been having many problems with a few primer sets I’ve designed. They are currently amplifying off taxa targets. When I look back at the reference database sequences, there are multiple basepair mismatches in both the forward and reverse primers. I can’t figure out why it is amplifying; it is unbelievable. I guess you won’t know how primers react until you test them on real-life samples. The primer design software I use is AlleleID which Pete Countway has in his lab. The system can search for primer binding regions on specific taxa while excluding closely related species. This makes designing species-specific assays reasonably straightforward. It took us under 5 minutes from start to finish to design our SAR-CoV2 primers, which we used for our in-class demonstration. Speaking of, below are the result of the Biomeme run from class. 
 
-
-![](../img/Cov_Table.png)
-
-![](../img/CoV_Curves.png)
-
-
+This week’s group discussion was an eye-opener. It was a good reminder that having a laissez-faire attitude to cybersecurity and data management will fail. I think the password thing is the hardest. These days companies like Apple or Google try and streamline logins by remembering password information. This efficiency also makes repeating passwords all too easy. I need to diversify my passwords. I also liked the group's emphasis on data backups, especially on the cloud. With science becoming more collaborative, how does a researcher manage all the different shared spaces like Dropbox and Google Drive? When starting a collaboration, when does data management and storage get talked about? 
