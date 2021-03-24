@@ -1,0 +1,7 @@
+---
+title: Bioinformatics and Data Management
+description: Sarahs reflection bioinformatics
+author: Sarah Hosler
+---
+
+This week was one of the most helpful so far, but I also feel like I say that every week in my reflection posts. Maybe I should say it was the most interesting to me. We talked a lot about data management during the Responsible research class I took earlier in the semester, so a lot of that aspect was redundant, but a lot of what we discussed regarding backing up files was very helpful. I am not super tech savvy when it comes to external hard drives, and clouds, and all that stuff, so it was very helpful but also overwhelming to hear how everyone else backs up their files. I also thought the paper was very good at explaining the difference between OTUs and ASVs, before this week I had only heard of OTUs, but now learning about ASVs I can tell that they will be very useful as more researchers start to use this method instead. Many aspects are hard to understand in bioinformatics because it is hard to picture what is going on, but I think both classes this week did a great job at making me understand and picture the methods and techniques, but as always it will not be 100% clear in my mind until I do it myself.
