@@ -1,0 +1,6 @@
+---
+title: Emerging Methods
+description: Week 9 reflection
+author: tktdvm
+---
+This week we learned about some emerging technologies, including LAMP, or loop-mediated isothermal amplification. The Shady Ladies gave a nice overview of LAMP, including some of its advantages and applications. One slide they presented showed a pretty intense depiction of the LAMP process, and if I hadn’t known at the time what it represented, I would have thought it was a piece of modern art. . .it was oddly colorful and beautiful! One significant characteristic of LAMP is that it has the potential to be used in a field setting. In a paper published last April (Kashir and Yaqinuddin 2020), the authors emphasized the resulting increased sensitivity and specificity associated with the LAMP technique. The authors highlighted the benefit of this quality when attempting to identify cases of what was (at the time) the newly emergent SARS-CoV-2. LAMP also relies on less expensive equipment and materials, which was discussed in class as well as in the Kashir and Yaqinuddin paper. All of these benefits of LAMP make it seem like an ideal choice, particularly in light of the need for a fast, reliable and inexpensive diagnostic tool for COVID-19. 

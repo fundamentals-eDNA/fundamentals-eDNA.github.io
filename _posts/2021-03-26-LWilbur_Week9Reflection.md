@@ -1,0 +1,7 @@
+---
+title: Reflection on Emerging Technologies
+description: Week 9 discussion reflection
+author: Lara Wilbur
+---
+
+I had never heard of LAMP technology until this week, and it seems like a really promising technique for eDNA work.  Just the fact that it can be performed in the field and in remote areas is a huge benefit.  It eliminates the need for costly thermocyclers, and allows for the real-time analysis of samples.  For water samples, however, it still requires samples to be filtered prior to amplification (Williams et al. 2017). This means that, for studies conducting aquatic rare or invasive species surveys, the LAMP method does not cut out the costs of filters, vacuum pumps, and associated accessories.  LAMP is however especially useful for studies that need quick results, such as those searching for aquatic invasive species (Lee 2017).  Because sample processing can be performed in the field, it also eliminates the concerns of keeping samples cold in transit to a lab.  One additional difference in cost is primer development: it seems that primer development for LAMP protocols would be considerably more expensive than that of PCR, because multiple primers need to be developed.

@@ -1,0 +1,6 @@
+---
+title: Reflection on LAMP
+author: Alex Ascher
+description: Week 8 blog post
+---
+I have to confess I feel like I still do not 100% understand how LAMP works, but I can still see the potential benefits it provides. One thing that stood out to me is the linear nature of its amplification. Errors due to PCR can represent a big issue for metabarcoding studies, especially diet studies where target DNA mat be washed out by overwhelming amounts of predator DNA. This is exacerbated by exponential growth of regular PCR, so a linear amplification may help limit those issues. Mostly I am interested in the idea of LAMP being a typ of PCR that can be taken into the field. I feel like it wouldn't be too difficult to establish some sort of water bath that would stay at a constant temperature needed for LAMP, and the quickness of this technology could allow researchers and citizen scientists to perform quick presence absence tests in the field. With the proper amount of optimization, I wonder if it would be possible to use LAMP to even track a plume of eDNA by performing rapid tests on carefully chosen sample sites to narrow in on a target in real time.
