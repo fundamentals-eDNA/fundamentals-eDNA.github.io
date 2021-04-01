@@ -1,0 +1,7 @@
+---
+title: "Reflection 8"
+author: "Greg LeClair"
+---
+This week we talked about emerging technologies in eDNA, and man, I always thought I was up-to-date on what was going on - apparently not! It's exciting to see what is up-and-coming, but I'm curious what will actually stick. For example, the chips seem really cool, but also seem more proprietary and I'd bet fairly expensive, so unless they become really popular I'm curious about how long they'll stick around for. Also, I gotta admit - I still don't really understand LAMP. I'm probably gonna re-watch the lecture and discussion, but it is cool to think that this might be a simpler way of detecting DNA. I am a bit worried about its shortcomings, but there's definitely more than one way to crack an egg, and I think that's not a bad thing, especially if it increases access.
+
+Speaking of emerging tech, I used to follow this really cool PhD student from UC Davis who studied insect genomics and was a part of a lab that designed very mobile genetics lab equipment. They had folding/origami microscopes, a hand-powered centrifuge that operated like some sort of spinning toy that I can't quite remember, and some mobile PCR kit (I recall Mini-PCR being one of them) so they could literally get genetic confirmation of butterfly species while in the field. I don't think this has yet been applied to eDNA, but it would be so cool to get real-time results while in the field.
